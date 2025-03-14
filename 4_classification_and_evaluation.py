@@ -87,7 +87,7 @@ def plot_confusion_matrix_plotly(cm, labels, out_file, title="Confusion Matrix")
 
 
 
-'''
+
 # -------------------------------------------------------------
 # Naive Bayes Klassifikation (Leave-one-out Crossvalidation)
 # -------------------------------------------------------------
@@ -141,7 +141,7 @@ plot_confusion_matrix_plotly(cm_nb_raw, candidate_labels, "./assets/diagrams/nb_
 cm_nb_prep, cr_nb_prep, y_true_nb_prep, y_pred_nb_prep = naive_bayes_loo(X_prepared, y, candidate_labels, "NaiveBayes (Prepared)")
 plot_confusion_matrix_plotly(cm_nb_prep, candidate_labels, "./assets/diagrams/nb_prep_cm.png",
                              title="Naive Bayes (Prepared)")
-'''
+
 
 
 
@@ -204,7 +204,7 @@ plot_confusion_matrix_plotly(cm_zs_prep, all_labels_for_cm, "./assets/diagrams/z
 
 
 
-'''
+
 # --------------------------------------------------------------------------------
 # SHAP-Analyse von Naive Bayes
 #---------------------------------------------------------------------------------
@@ -278,10 +278,10 @@ plt.savefig(out_shap_nb)
 plt.close()
 print("\nDone")
 
-'''
 
 
-'''
+
+
 # -----------------------------------------------------------------------------------------------------
 # SHAP-Analyse für BART (Label "Design and Industry")
 # Der Text eines richtig klassifizierten Videos wird hierbei genutzt, um die SHAP Analyse durchzuführen
@@ -346,10 +346,10 @@ for i, token in enumerate(shap_values[0].feature_names):
 shap.plots.bar(shap_values[0], max_display=10)
 # Diese Art von Plots muss ich leider manuell abspeichern
 
-'''
 
 
-'''
+
+
 # Top-Tokens Diagramm
 
 vals = shap_values[0].values
@@ -395,5 +395,5 @@ plt.savefig("./assets/diagrams/top_tokens.png", dpi=150)
 plt.close()
 
 print("\nDone")
-'''
+
 
