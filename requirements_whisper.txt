@@ -1,0 +1,14 @@
+pandas
+numpy
+torch
+torchvision
+torchaudio
+--index-url https://download.pytorch.org/whl/cu118
+scikit-learn
+matplotlib
+plotly
+python-kaleido
+ffmpeg
+transformers
+shap
+nltk
