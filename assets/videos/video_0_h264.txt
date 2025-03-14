@@ -1,0 +1,757 @@
+[Sek   0] WE
+[Sek   0] ARE
+[Sek   2] the
+[Sek   2] spruccZas
+[Sek   3] LOVE
+[Sek   4] 1
+[Sek   4] FOOD
+[Sek   5] Spruceca
+[Sek   5] 7
+[Sek   5] 70 Simple
+[Sek   5] Vegan Recipes
+[Sek   5] 21
+[Sek   6] SipruiceCaks
+[Sek   6] 10 Simple
+[Sek   8] sprucead
+[Sek   8] Chickpea
+[Sek   8] Veggie Burgers
+[Sek   9] spruceead
+[Sek  10] spruceal
+[Sek  11] Lhne
+[Sek  11] spruceCals
+[Sek  11] nned
+[Sek  11] Ickpeas
+[Sek  12] thc
+[Sek  12] sprucecais
+[Sek  12] 2
+[Sek  12] canned
+[Sek  12] chickpeas
+[Sek  12] 2 cups
+[Sek  13] Inned
+[Sek  13] lickpeas
+[Sek  13] ps
+[Sek  14] spruceCais
+[Sek  14] 4
+[Sek  16] drain and save
+[Sek  17] spruceCads
+[Sek  17] drain
+[Sek  17] and save
+[Sek  17] 45 tbsp liquid
+[Sek  20] oosto
+[Sek  21] Qhe
+[Sek  21] Sprucegads
+[Sek  22] Lhe
+[Sek  22] Sprucecads
+[Sek  23] he
+[Sek  23] spruceas
+[Sek  26] iba
+[Sek  26] Sprucccais
+[Sek  26] pulse chickpeas
+[Sek  26] 9
+[Sek  26] 1o
+[Sek  26] Hinno
+[Sek  27] sprucegads
+[Sek  27] 3 to
+[Sek  27] 4 times
+[Sek  28] spruce8ak
+[Sek  28] 3to
+[Sek  29] spruceGak
+[Sek  30] spruccCal
+[Sek  30] 6
+[Sek  31] 0
+[Sek  31] sprucecats
+[Sek  32] celery
+[Sek  32] 1 stalk diced
+[Sek  32] 8
+[Sek  33] carrot
+[Sek  33] grated
+[Sek  34] onion
+[Sek  34] minced
+[Sek  34] 12,
+[Sek  35] spruceCak
+[Sek  35] garlic
+[Sek  35] powder
+[Sek  35] 1 tsp
+[Sek  37] allpurpose
+[Sek  37] flour
+[Sek  37] 12 cup
+[Sek  38] sprucecals
+[Sek  38] salt
+[Sek  40] pepper
+[Sek  40] 12 tsp
+[Sek  43] SpruceCals
+[Sek  44] Sprucecals
+[Sek  48] SpruccCais
+[Sek  49] Spruccyals
+[Sek  50] sprucecas
+[Sek  50] add chickpea liquid
+[Sek  50] until mixture holds
+[Sek  52] sprucegas
+[Sek  53] Ihe
+[Sek  54] ahe
+[Sek  54] sprucecak
+[Sek  54] S
+[Sek  58] sprucecaus
+[Sek  62] put in freezer to
+[Sek  62] firm them up
+[Sek  62] sprucecatls
+[Sek  64] spruceCaks
+[Sek  64] vegetable
+[Sek  64] oil
+[Sek  64] 1 2 to 3
+[Sek  64] tbsp
+[Sek  65] 2 to 3 tbsp
+[Sek  66] le
+[Sek  66] 10
+[Sek  70] Jo
+[Sek  71] 0004
+[Sek  75] sprucecaks
+[Sek  76] sprucecads
+[Sek  76] cook 3 to
+[Sek  76] min
+[Sek  76] on
+[Sek  76] en
+[Sek  76] Sieuntil goiden
+[Sek  77] sprucecadls
+[Sek  77] each side until goldenl
+[Sek  78] Sprucecadls
+[Sek  78] each side until golden
+[Sek  83] The
+[Sek  87] Ulaz
+[Sek  88] Uhie
+[Sek  88] s9
+[Sek  89] Ule
+[Sek  89] St
+[Sek  90] O
+[Sek  90] Sprucecak
+[Sek  91] ab?
+[Sek  91] Sprucecass
+[Sek  92] spruceeaf
+[Sek  92] Cauliflower and
+[Sek  92] Pot Jup
+[Sek  93] sprucea
+[Sek  93] Potato Soup
+[Sek  94] spruceea
+[Sek  96] huliflower
+[Sek  96] e
+[Sek  97] cauliflower
+[Sek  97] large
+[Sek 100] Sprucecaik
+[Sek 101] Spruceak
+[Sek 102] Sprucecal
+[Sek 103] Sprucecas
+[Sek 106] SpruceCas
+[Sek 106] olive
+[Sek 107] Sprucecaus
+[Sek 109] diced
+[Sek 111] 2 cloves minced
+[Sek 113] SpruceCaus
+[Sek 113] 2 cloves, minced
+[Sek 116] spruceak
+[Sek 118] Uhe
+[Sek 118] SpruceCads
+[Sek 118] potato
+[Sek 122] SpruceCak
+[Sek 124] cook for a few
+[Sek 124] stirringfrequently
+[Sek 124] min,
+[Sek 125] cook for a few min
+[Sek 125] stirring frequently
+[Sek 126] sprucetak
+[Sek 127] spruceCas
+[Sek 128] ihe
+[Sek 129] broth
+[Sek 129] 3 cups
+[Sek 132] leaves
+[Sek 132] bay
+[Sek 135] stir and bring
+[Sek 135] to
+[Sek 135] 9 simmer
+[Sek 136] to a simmer
+[Sek 138] spruceCa
+[Sek 138] cover and cook on
+[Sek 138] medlow for 2530 min
+[Sek 139] medlow for 2530
+[Sek 142] remove
+[Sek 143] bay leaves
+[Sek 144] SpruceGas
+[Sek 145] remove bayleavas
+[Sek 146] spruceCal
+[Sek 147] transfer to a blender
+[Sek 147] 00
+[Sek 149] SpruceCal
+[Sek 149] transfer to E
+[Sek 150] thhe
+[Sek 151] puree until smooth
+[Sek 152] and creamy
+[Sek 156] balt
+[Sek 156] p taste
+[Sek 157] to taste
+[Sek 158] SpruceCadls
+[Sek 159] SpruceCais
+[Sek 160] SpruceCaiss
+[Sek 160] nutmeg
+[Sek 160] dash
+[Sek 161] SpruceCaks
+[Sek 163] Ssov olneroe
+[Sek 164] blendto
+[Sek 164] mix
+[Sek 164] Wel
+[Sek 165] blend to
+[Sek 165] Weuc
+[Sek 166] blend
+[Sek 166] mix Weut
+[Sek 167] Culfane
+[Sek 169] sprucecass
+[Sek 174] green
+[Sek 174] for garnish
+[Sek 176] Sprucecaks
+[Sek 176] 3
+[Sek 180] A
+[Sek 182] spruceeafs
+[Sek 182] Japanese Udon
+[Sek 182] Noodle Soup
+[Sek 185] spruceCaf
+[Sek 185] Aa
+[Sek 185] uoin
+[Sek 185] ONOFF
+[Sek 185] Scjuron
+[Sek 186] sprucegadks
+[Sek 186] Qunog
+[Sek 186] 4 cups
+[Sek 186] 6aqo
+[Sek 187] OooC
+[Sek 187] 06
+[Sek 188] ginger
+[Sek 188] 2, 1inch pieces
+[Sek 189] sugar
+[Sek 189] OuOoC
+[Sek 189] pinch
+[Sek 189] Scuro Min
+[Sek 190] Scur
+[Sek 190] 0o
+[Sek 191] rice
+[Sek 191] vinegar
+[Sek 191] cunDO
+[Sek 191] 2 tbsp
+[Sek 191] ScurHn
+[Sek 192] CuDO
+[Sek 192] Scumnro
+[Sek 192] C
+[Sek 193] CuolDo
+[Sek 194] soy
+[Sek 194] sauce
+[Sek 194] QuolDC
+[Sek 194] 14 cup
+[Sek 194] Souina
+[Sek 195] mMno
+[Sek 196] CuODC
+[Sek 196] IScquronf
+[Sek 197] vegetarian mushroom
+[Sek 197] OODo
+[Sek 197] Scqo
+[Sek 198] Scauro Huo
+[Sek 199] chili
+[Sek 199] paste
+[Sek 199] 1z tsp
+[Sek 199] Scuio
+[Sek 200] CuOoC
+[Sek 200] ScoHnno
+[Sek 201] spruceads
+[Sek 201] CuOlDC
+[Sek 201] Gcqur hn
+[Sek 202] Scqum H
+[Sek 203] AA
+[Sek 203] 0io oou
+[Sek 203] bring toazhoil
+[Sek 203] 76 7
+[Sek 203] onoff
+[Sek 204] 0ioioo
+[Sek 204] bring to a boil
+[Sek 204] 89 7
+[Sek 204] h
+[Sek 205] sprucegass
+[Sek 205] 0iooou
+[Sek 205] 06 7
+[Sek 206] cover, reduce heac
+[Sek 206] nd simmer forao
+[Sek 206] ONOF
+[Sek 207] sprucegat
+[Sek 207] cover
+[Sek 207] reduce heac
+[Sek 207] and simmer for 10 min
+[Sek 207] s
+[Sek 208] cover reduce heac
+[Sek 208] 09e
+[Sek 208] Hn
+[Sek 209] sprucegad
+[Sek 209] 00oo
+[Sek 210] 004oo
+[Sek 211] a
+[Sek 212] OnOFF
+[Sek 212] 6uto
+[Sek 213] 856
+[Sek 213] Ut
+[Sek 214] Ofonoc
+[Sek 214] 356
+[Sek 214] Sequro Nno
+[Sek 214] Mcnu
+[Sek 215] aaa
+[Sek 215] Oono
+[Sek 215] Seguro Mno
+[Sek 215] enus
+[Sek 216] Oeoioc
+[Sek 216] Sequro Kno
+[Sek 217] Gronoo
+[Sek 217] 85 5
+[Sek 217] Menu
+[Sek 218] spruceass
+[Sek 218] G
+[Sek 218] Sequro Kn
+[Sek 219] 855
+[Sek 219] Sequro hno
+[Sek 220] QAnoc
+[Sek 220] Guon
+[Sek 221] Aaa
+[Sek 221] Croo
+[Sek 221] 055
+[Sek 222] aa
+[Sek 223] p
+[Sek 223] UAoc
+[Sek 223] Scauo nr
+[Sek 224] peanut
+[Sek 224] Scquio Kn
+[Sek 225] CuoAo
+[Sek 225] onOFF
+[Sek 226] fresh
+[Sek 226] 2 tbsp minced
+[Sek 226] Scouro h
+[Sek 227] couno
+[Sek 228] Scqurhn
+[Sek 229] Scquro hn
+[Sek 230] QuNoc
+[Sek 230] ON
+[Sek 230] Sequro
+[Sek 231] Goug
+[Sek 232] Gounon
+[Sek 233] 858
+[Sek 233] Sequro n
+[Sek 234] sesame
+[Sek 234] 059
+[Sek 234] Seguro
+[Sek 235] Seguro Kn
+[Sek 236] chinese
+[Sek 236] broccoli
+[Sek 236] 1 Ib, chopped
+[Sek 236] Scguro n
+[Sek 237] 859
+[Sek 237] Sequro r
+[Sek 238] ONI
+[Sek 238] Gcuno
+[Sek 239] Onofe
+[Sek 239] Gsunc
+[Sek 240] no
+[Sek 241] Gfon
+[Sek 242] Guno
+[Sek 243] 05
+[Sek 243] 6uno
+[Sek 244] Sqqoc
+[Sek 245] Uaan
+[Sek 245] KALLEY
+[Sek 246] prepars
+[Sek 246] udon noodll
+[Sek 247] prepared
+[Sek 247] udon noodles
+[Sek 247] 12 Ib
+[Sek 250] 1e
+[Sek 257] adt
+[Sek 258] Jat
+[Sek 258] onions
+[Sek 258] 4, sliced thin
+[Sek 259] at
+[Sek 261] cilantro
+[Sek 261] 14 cup chopped
+[Sek 264] Sprucegas
+[Sek 264] peanuts
+[Sek 264] 1 cup roasted and salted
+[Sek 265] 2 cup roasted and salted
+[Sek 267] Sprucegak
+[Sek 267] 12 cup roasted and salted
+[Sek 269] thue
+[Sek 269] spruce
+[Sek 270] PunjabiStyle Chole
+[Sek 270] Chickpea Curry
+[Sek 274] 2, thinly sliced
+[Sek 277] tomatoes
+[Sek 277] 2, chopped
+[Sek 280] Sprucecails
+[Sek 281] SpruceCails
+[Sek 286] gaj
+[Sek 286] pal
+[Sek 289] blend together into
+[Sek 289] a smooth paste
+[Sek 290] smooth paste
+[Sek 291] a smooth
+[Sek 292] Ibe
+[Sek 298] cloves
+[Sek 298] 5
+[Sek 300] cardamoms
+[Sek 301] peppercorns
+[Sek 304] ?
+[Sek 306] chopped
+[Sek 310] te
+[Sek 311] thie
+[Sek 312] ladd the onion
+[Sek 312] Itomato paste
+[Sek 313] SpruceCalks
+[Sek 314] spruceCadk
+[Sek 317] spruceCalk
+[Sek 318] cook until oil begins to
+[Sek 318] separate from the paste
+[Sek 321] Tag
+[Sek 321] tsp
+[Sek 322] cumin
+[Sek 323] coriander
+[Sek 323] 2 tsp
+[Sek 325] red chili
+[Sek 326] Sprucecadls .
+[Sek 326] turmeric
+[Sek 326] 14 tsp
+[Sek 328] garam
+[Sek 328] masala
+[Sek 329] Spruceals
+[Sek 330] 72tsp
+[Sek 332] 15
+[Sek 332] tsx
+[Sek 333] saute
+[Sek 335] rin
+[Sek 336] 2 cans, rinsed
+[Sek 339] Z cans, rInse
+[Sek 346] spruceCadlk
+[Sek 347] water
+[Sek 347] 1 2 cups
+[Sek 349] spruceCadks
+[Sek 353] 624
+[Sek 357] sprucecal
+[Sek 357] coursely mash
+[Sek 357] some
+[Sek 357] of the
+[Sek 358] coursely
+[Sek 358] mash
+[Sek 358] Lof the chickpeas
+[Sek 359] spruceCadl
+[Sek 361] inia shaiokpeas
+[Sek 365] spru
+[Sek 366] spr
+[Sek 375] Sprucea
+[Sek 376] sprucetas
+[Sek 378] spruceeat
+[Sek 378] Falafel Pita
+[Sek 378] Sandwich
+[Sek 378] J
+[Sek 380] spruceaf
+[Sek 381] i
+[Sek 381] falafel
+[Sek 381] homemade or storebought
+[Sek 382] 3C
+[Sek 383] rnes
+[Sek 385] 2, diced
+[Sek 386] cucumber
+[Sek 387] sliced
+[Sek 388] Uhc
+[Sek 388] parsley
+[Sek 388] cup finely chopped
+[Sek 396] pita
+[Sek 396] bread loaves
+[Sek 398] H loaves
+[Sek 401] heat
+[Sek 402] per side
+[Sek 408] 11
+[Sek 411] Lhge
+[Sek 413] 78
+[Sek 414] 73,
+[Sek 415] 1,
+[Sek 416] 8,
+[Sek 417] Ilu
+[Sek 419] Aprucecns
+[Sek 420] Moruceczns
+[Sek 421] ohr
+[Sek 422] iin
+[Sek 423] Wi
+[Sek 424] Lhhe
+[Sek 424] drizzle with
+[Sek 424] tahini sauce
+[Sek 425] n
+[Sek 425] MpruceCais
+[Sek 426] ohn
+[Sek 428] Ohege
+[Sek 431] Spruce
+[Sek 431] 90
+[Sek 433] spruceaks
+[Sek 436] Crispy
+[Sek 436] Fried Tofu
+[Sek 437] sprucegal
+[Sek 438] sprucegals
+[Sek 439] spruceCats
+[Sek 440] block
+[Sek 440] tofu
+[Sek 440] firm
+[Sek 442] top and bottom
+[Sek 443] cover top and bottom
+[Sek 443] with paper towels
+[Sek 446] weigh down
+[Sek 447] for 10 minutes
+[Sek 454] cut into
+[Sek 454] 12 in cubes
+[Sek 456] Ur
+[Sek 456] SpruceGads
+[Sek 459] spruceyak
+[Sek 463] spruccCads
+[Sek 464] nutritional
+[Sek 464] yeast
+[Sek 465] 3 tbsp
+[Sek 490] spruceCadts
+[Sek 491] 0 . 2
+[Sek 492] cook
+[Sek 493] med 46
+[Sek 494] med 146
+[Sek 495] turn occasionally
+[Sek 496] turn
+[Sek 496] occasionally
+[Sek 498] sprucccas
+[Sek 498] 4ca
+[Sek 499] tlie
+[Sek 499] spruccCaks
+[Sek 499] Yojo4
+[Sek 500] Spue
+[Sek 501] ne
+[Sek 501] Sprucocads
+[Sek 502] hhe
+[Sek 511] spruceyal
+[Sek 511] Basic
+[Sek 511] Miso Soup
+[Sek 514] spruccCals
+[Sek 514] Ir
+[Sek 514] 1oid4
+[Sek 515] spruccaks
+[Sek 515] 29904
+[Sek 516] 1s04
+[Sek 517] 29i
+[Sek 518] nori
+[Sek 518] 56o04
+[Sek 519] Leej4
+[Sek 521] simmer
+[Sek 522] 56
+[Sek 522] mins
+[Sek 524] Lhc
+[Sek 524] u
+[Sek 524] 6j04
+[Sek 524] Ick
+[Sek 525] spruccyak
+[Sek 525] 12 block
+[Sek 526] 8j4
+[Sek 527] scallions
+[Sek 527] 6904
+[Sek 527] 3, chopped
+[Sek 529] miso
+[Sek 529] 8904
+[Sek 529] 13 cup
+[Sek 530] 6804
+[Sek 531] 6004
+[Sek 534] ri
+[Sek 537] rucecals
+[Sek 539] prucecadis
+[Sek 540] spruceya
+[Sek 544] sprucega
+[Sek 544] Mushroom
+[Sek 545] Burgers
+[Sek 548] canola
+[Sek 549] canola oil
+[Sek 550] 1, diced
+[Sek 553] clove, minced
+[Sek 555] garli
+[Sek 555] clove
+[Sek 557] dle
+[Sek 559] 3, diced
+[Sek 564] mushrooms
+[Sek 564] 34 cup
+[Sek 569] 5 min
+[Sek 569] coor
+[Sek 574] Uae
+[Sek 574] SpruceZals
+[Sek 575] pinto beans
+[Sek 575] 15 OZ
+[Sek 578] SruccCak
+[Sek 580] spruceCadls
+[Sek 581] siruceca
+[Sek 583] add
+[Sek 583] binding agent
+[Sek 583] by combining warm
+[Sek 583] water and egg replacer
+[Sek 584] add a binding agent
+[Sek 585] combining warm
+[Sek 585] by
+[Sek 589] lhe
+[Sek 600] Uhhe
+[Sek 605] Spry eCads
+[Sek 605] shape 1inch
+[Sek 605] thick patties
+[Sek 606] spruleCak
+[Sek 610] ihie
+[Sek 610] SpruceGaks
+[Sek 615] 83
+[Sek 616] canol
+[Sek 619] 2 tbs
+[Sek 623] 3 mm persrae
+[Sek 623] cooe
+[Sek 635] Spruceas
+[Sek 647] sprucegaf
+[Sek 647] Lentil Loaf
+[Sek 651] tln
+[Sek 651] spruceg
+[Sek 652] lentils
+[Sek 653] Spprucecads
+[Sek 654] leni
+[Sek 656] rinse and drain
+[Sek 658] rinoo oncldrain
+[Sek 659] YCOo4
+[Sek 660] f
+[Sek 660] Y0oo4
+[Sek 661] ApprunceCads
+[Sek 661] 29004
+[Sek 662] 42
+[Sek 663] 3 2 cups
+[Sek 664] spruncecads
+[Sek 664] 18904
+[Sek 665] spruncecaus
+[Sek 665] oOo4
+[Sek 666] VCoo4
+[Sek 667] Spruncecads
+[Sek 667] gO04
+[Sek 669] Yoo4
+[Sek 672] sprucecds
+[Sek 672] bringtoa boil
+[Sek 672] Vooo4
+[Sek 673] bring to a
+[Sek 673] boil
+[Sek 673] Y0004
+[Sek 675] ooo4
+[Sek 676] reduce heat and
+[Sek 676] 30
+[Sek 676] minutes
+[Sek 679] drain and
+[Sek 679] Ecoo4
+[Sek 680] and
+[Sek 680] thoroughly
+[Sek 681] 8,1s
+[Sek 682] Onc
+[Sek 683] Va
+[Sek 684] 701e
+[Sek 687] Te
+[Sek 688] thho
+[Sek 689] sprncecas
+[Sek 691] sprncecads
+[Sek 695] Ce
+[Sek 695] sprcecads
+[Sek 698] tho
+[Sek 702] 1 occ
+[Sek 703] 1ooc
+[Sek 704] bcc
+[Sek 710] mashed lenus
+[Sek 711] add mashed lenits
+[Sek 712] mashed lentils
+[Sek 714] 2 cups precooked
+[Sek 719] ketchup
+[Sek 721] sage
+[Sek 723] italian
+[Sek 723] seasoning
+[Sek 723] 34 tsp
+[Sek 724] itali
+[Sek 724] seasonil
+[Sek 726] mix well
+[Sek 727] Mpruceak
+[Sek 727] mix welll
+[Sek 729] Spruceyadls
+[Sek 730] spruceyas
+[Sek 730] gently press into
+[Sek 730] greased pan
+[Sek 731] Spruceyads
+[Sek 733] Sprucecacs
+[Sek 734] IpruceCals
+[Sek 737] addrketchup
+[Sek 738] add ketchup
+[Sek 738] on top
+[Sek 739] Onton
+[Sek 742] bake
+[Sek 743] 3500
+[Sek 743] 60
+[Sek 745] more
+[Sek 745] evey
+[Sek 746] every 15 minutes
+[Sek 747] every 15
+[Sek 752] sprucegak
+[Sek 753] the ruceadk
+[Sek 754] oruce
+[Sek 755] AWe
+[Sek 755] Sorue
+[Sek 756] Mue
+[Sek 756] Sprur
+[Sek 757] Grilled Portobello
+[Sek 757] Mushrooms
+[Sek 758] SpruccCak
+[Sek 760] spruceeas
+[Sek 761] Prtobello
+[Sek 761] ushrooms
+[Sek 762] portobello
+[Sek 762] 12
+[Sek 768] spruccgaks
+[Sek 768] ilted
+[Sek 768] br
+[Sek 769] Sprucegaks
+[Sek 769] unsalted
+[Sek 769] butter
+[Sek 771] extravirgin
+[Sek 771] olive oil
+[Sek 773] lemon
+[Sek 773] juice
+[Sek 775] Lhie
+[Sek 775] Spruceyals
+[Sek 775] 3, minced
+[Sek 777] black
+[Sek 779] Spruicocaus
+[Sek 780] Shrucecaus
+[Sek 780] over
+[Sek 780] medium
+[Sek 780] low
+[Sek 782] once
+[Sek 782] butter melts
+[Sek 782] mixture is simmering
+[Sek 783] once butter melts
+[Sek 784] ul
+[Sek 786] brush
+[Sek 786] mushroom tops
+[Sek 786] with half the
+[Sek 786] mixture
+[Sek 791] brush and
+[Sek 791] oil the grill
+[Sek 794] covered
+[Sek 794] grill
+[Sek 795] at 3509
+[Sek 796] at 3500
+[Sek 799] turn, baste and
+[Sek 799] 87l
+[Sek 800] turn baste
+[Sek 800] grill another
+[Sek 800] ming
+[Sek 801] mini
+[Sek 804] Jc
+[Sek 804] Sprtcocas
+[Sek 808] pruce8
+[Sek 809] spruceCadis
+[Sek 809] flaky
+[Sek 809] sea salt
+[Sek 812] 7 4
+[Sek 813] Sruceak
+[Sek 815] SUBSCRIBE
+[Sek 815] for new videos
+[Sek 815] every week!

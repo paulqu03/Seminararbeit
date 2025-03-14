@@ -1,0 +1,18 @@
+[Sek   1] Chile
+[Sek   2] 0 P E N
+[Sek   2] A D V E N T U RE
+[Sek   3] 0 P E N.
+[Sek   3] A D V E N T U R E
+[Sek   8] L F E
+[Sek   9] L 1 F E
+[Sek  12] 0PEN
+[Sek  12] S Pa1 RET
+[Sek  13] 0 PE N
+[Sek  13] SPel RIT
+[Sek  16] S K E
+[Sek  19] 0PENn
+[Sek  19] ExPCE R E N C E
+[Sek  20] EX Paie R E N C E
+[Sek  28] 5120
+[Sek  29] N A T U R E
+[Sek  29] 6ppe4

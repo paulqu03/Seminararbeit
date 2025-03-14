@@ -1,0 +1,16 @@
+[Sek  19] NA
+[Sek  20] 8
+[Sek  20] 0
+[Sek  21] JR DAY
+[Sek  27] 1
+[Sek  33] patoccom
+[Sek  56] 39
+[Sek  56] CCA
+[Sek  67] 2
+[Sek  67] 3
+[Sek  70] KREATIVAV
+[Sek  70] ViaVerdede lSierra
+[Sek  71] ViaVerde dela
+[Sek  71] Sierra
+[Sek  72] ViaVerdedl Sierca
+[Sek  73] ViaVerdedel Sierca

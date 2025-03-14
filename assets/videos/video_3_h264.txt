@@ -1,0 +1,1801 @@
+[Sek   0] 1
+[Sek   0] Iv W
+[Sek   0] C
+[Sek   0] 1us7nag,
+[Sek   0] 1u1
+[Sek   0] TAPESTRYs
+[Sek   0] 09
+[Sek   1] Iv ? V
+[Sek   1] 1ustnag,
+[Sek   1] 1u01
+[Sek   1] TA
+[Sek   2] Jv V
+[Sek   2] 1ustnada
+[Sek   2] 1001
+[Sek   2] TAPESTRY
+[Sek   2] Q
+[Sek   3] 1ustnad,
+[Sek   3] 1u 01
+[Sek   4] 1 V
+[Sek   4] Iu 01
+[Sek   5] AHoY
+[Sek   5] 1v V
+[Sek   5] JU
+[Sek   5] TAPE
+[Sek   6] AhoY
+[Sek   6] 1 . V
+[Sek   9] a
+[Sek  10] 10
+[Sek  10] IB
+[Sek  12] IR
+[Sek  13] anan
+[Sek  13] 2
+[Sek  13] 3
+[Sek  13] J ! W
+[Sek  13] 1ustna6a
+[Sek  13] 101E
+[Sek  13] TAPESIRY
+[Sek  14] 7ustnata
+[Sek  14] ohaunt
+[Sek  15] 1u0E
+[Sek  15] rsallt
+[Sek  16] arndalt
+[Sek  16] J M
+[Sek  16] 7ustnat,
+[Sek  17] AHs
+[Sek  18] 7
+[Sek  18] AH
+[Sek  20] AHo
+[Sek  21] DGE
+[Sek  21] F
+[Sek  21] Ff
+[Sek  21] RF
+[Sek  21] up to
+[Sek  21] The
+[Sek  21] Bluef
+[Sek  21] Island
+[Sek  21] your
+[Sek  21] may
+[Sek  21] Order
+[Sek  21] Bat
+[Sek  22] If yo
+[Sek  22] to
+[Sek  22] Islar
+[Sek  22] up
+[Sek  23] If
+[Sek  23] Rr
+[Sek  23] Ko
+[Sek  23] p
+[Sek  23] Bad
+[Sek  24] my
+[Sek  24] and
+[Sek  24] rd for
+[Sek  24] ro
+[Sek  24] Up
+[Sek  24] ard
+[Sek  24] die
+[Sek  24] in
+[Sek  24] 35 .
+[Sek  24] or
+[Sek  24] air AlI
+[Sek  24] 31l
+[Sek  24] UIT
+[Sek  24] Crew
+[Sek  24] Move r
+[Sek  24] you
+[Sek  24] Market,
+[Sek  24] anchor,
+[Sek  24] rules
+[Sek  24] one
+[Sek  24] Repair
+[Sek  24] paces
+[Sek  24] Remove
+[Sek  24] from
+[Sek  24] now
+[Sek  24] damage
+[Sek  24] slots.
+[Sek  24] Deploy
+[Sek  24] Patrol
+[Sek  24] space
+[Sek  24] Flagships
+[Sek  24] Place
+[Sek  24] Bombard
+[Sek  24] adjacent
+[Sek  24] Comrades
+[Sek  24] nage
+[Sek  24] rcgion.
+[Sek  24] the
+[Sek  24] Cannons
+[Sek  24] trom
+[Sek  24] Flagship
+[Sek  24] urn
+[Sek  24] anay
+[Sek  24] odd
+[Sek  24] o
+[Sek  24] roll
+[Sek  24] haudles
+[Sek  24] here
+[Sek  24] ie
+[Sek  24] ou
+[Sek  25] SStefir
+[Sek  25] 72
+[Sek  25] 6
+[Sek  25] 6e
+[Sek  25] n
+[Sek  25] die in
+[Sek  25] M
+[Sek  25] Ol
+[Sek  25] 0f
+[Sek  25] 1 or
+[Sek  25] al
+[Sek  25] En
+[Sek  25] Sl .
+[Sek  25] Or
+[Sek  25] an
+[Sek  25] aroeon
+[Sek  25] aoo
+[Sek  25] aoean
+[Sek  25] neoen
+[Sek  25] Orler
+[Sek  25] anales
+[Sek  25] aad
+[Sek  25] Aoioos
+[Sek  25] aegolo
+[Sek  25] ee
+[Sek  25] 0ooss
+[Sek  25] anaren
+[Sek  25] Tailwind
+[Sek  25] 60
+[Sek  25] Oan
+[Sek  25] 88807
+[Sek  25] ach
+[Sek  25] oloen
+[Sek  25] Lashp
+[Sek  25] lh
+[Sek  25] iiaoe
+[Sek  25] 0
+[Sek  25] erce
+[Sek  25] niai
+[Sek  25] Gi1s
+[Sek  25] Coiner
+[Sek  25] More
+[Sek  25] dtrectly
+[Sek  25] he
+[Sek  25] his
+[Sek  25] When
+[Sek  25] Sail
+[Sek  25] End
+[Sek  25] spaces.
+[Sek  25] place
+[Sek  25] 0uii
+[Sek  25] Any
+[Sek  25] remove
+[Sek  25] Move
+[Sek  25] Jaces
+[Sek  25] hage
+[Sek  25] arom
+[Sek  25] mnay
+[Sek  25] add
+[Sek  25] baudles
+[Sek  25] u
+[Sek  26] SStwefin
+[Sek  26] 15
+[Sek  26] e
+[Sek  26] at
+[Sek  26] ard.
+[Sek  26] il .
+[Sek  26] all
+[Sek  26] ans
+[Sek  26] aeononn
+[Sek  26] aaoron
+[Sek  26] s
+[Sek  26] nooe
+[Sek  26] aaaes
+[Sek  26] 8a80alo
+[Sek  26] 0os
+[Sek  26] 01oos s
+[Sek  26] 6nein
+[Sek  26] 00e
+[Sek  26] Deal
+[Sek  26] iaan7
+[Sek  26] lavebp
+[Sek  26] th
+[Sek  26] iiiaos
+[Sek  26] our
+[Sek  26] pace
+[Sek  26] nei
+[Sek  26] Gi1
+[Sek  26] Islane
+[Sek  26] directly
+[Sek  26] this
+[Sek  26] Flagship.
+[Sek  26] 0ui
+[Sek  26] anchor
+[Sek  26] rules.
+[Sek  26] region
+[Sek  26] rom
+[Sek  26] bauule,
+[Sek  26] ane
+[Sek  27] An
+[Sek  27] dic
+[Sek  27] J1 il
+[Sek  27] 0f 1
+[Sek  27] 1 or 2
+[Sek  27] c.
+[Sek  27] a1l
+[Sek  27] Ordler
+[Sek  27] nale
+[Sek  27] 18ons
+[Sek  27] acue
+[Sek  27] oe
+[Sek  27] o9oys?
+[Sek  27] naron
+[Sek  27] Hene
+[Sek  27] seo
+[Sek  27] olosn
+[Sek  27] Flarshf
+[Sek  27] nth
+[Sek  27] 088iasn
+[Sek  27] epce
+[Sek  27] na
+[Sek  27] 6h1s
+[Sek  27] Coinee
+[Sek  27] nui
+[Sek  27] region.
+[Sek  27] Flagship s
+[Sek  27] turn
+[Sek  27] baudle,
+[Sek  27] Voui
+[Sek  28] 6n
+[Sek  28] or 2
+[Sek  28] rd
+[Sek  28] Der
+[Sek  28] ro il.
+[Sek  28] air All
+[Sek  28] OSloston
+[Sek  28] lgchp
+[Sek  28] epace
+[Sek  28] Coof
+[Sek  28] Patr
+[Sek  28] WUIT
+[Sek  28] Patror
+[Sek  28] spac
+[Sek  28] sland
+[Sek  28] rcgion
+[Sek  28] radd
+[Sek  29] 03
+[Sek  29] 5
+[Sek  29] 40
+[Sek  29] 6o 88s
+[Sek  29] 01
+[Sek  29] ic.
+[Sek  29] non
+[Sek  29] OSloetan
+[Sek  29] aed
+[Sek  29] aoven
+[Sek  29] neoe
+[Sek  29] Onlor
+[Sek  29] onss
+[Sek  29] 3e
+[Sek  29] 74eoe
+[Sek  29] oee
+[Sek  29] 70136os?
+[Sek  29] uaneven
+[Sek  29] 8867i
+[Sek  29] olos
+[Sek  29] Fuehp
+[Sek  29] uh
+[Sek  29] inioon
+[Sek  29] corneo
+[Sek  29] Adtrectly
+[Sek  29] Ahe
+[Sek  29] Daces
+[Sek  29] Asland
+[Sek  29] Tegion
+[Sek  29] bauules
+[Sek  29] c
+[Sek  30] J V
+[Sek  30] 7usinada
+[Sek  30] 1u0i
+[Sek  31] y
+[Sek  31] ustna6,
+[Sek  31] 100
+[Sek  38] Scaytillche end
+[Sek  38] for Sea Shancies
+[Sek  38] Jn V
+[Sek  38] us7na6,
+[Sek  39] Scaytillce end
+[Sek  39] 1 0
+[Sek  39] 11
+[Sek  39] 7ustnag
+[Sek  39] 1U0
+[Sek  39] TApes
+[Sek  40] Scay cillde end
+[Sek  40] 1u0
+[Sek  40] TAPESTRY ,
+[Sek  41] Scay cillce end
+[Sek  41] In V
+[Sek  41] 1usinag,
+[Sek  41] 1u0s
+[Sek  41] 69
+[Sek  42] 14
+[Sek  42] Scay cill de end
+[Sek  42] for Con
+[Sek  42] Chanioc
+[Sek  42] I V
+[Sek  42] ustnag,
+[Sek  53] Ustnaga
+[Sek  54] 1u03
+[Sek  55] 1 W
+[Sek  55] 7ustnaga
+[Sek  56] 70
+[Sek  56] 1 v V.
+[Sek  56] 1ustnata
+[Sek  70] 8
+[Sek  70] Y
+[Sek  70] 1o
+[Sek  70] to 2
+[Sek  70] UP
+[Sek  70] 6s
+[Sek  70] i6
+[Sek  70] O5
+[Sek  70] anun
+[Sek  70] ca
+[Sek  70] Tedbenood
+[Sek  70] Ganies
+[Sek  70] eeee
+[Sek  70] S0dl
+[Sek  70] 7an
+[Sek  70] aus861
+[Sek  70] 77un
+[Sek  70] 0i1ine
+[Sek  70] Mo
+[Sek  70] ven
+[Sek  70] Tailwvind
+[Sek  70] cards
+[Sek  70] Cargo
+[Sek  70] Even
+[Sek  70] Island,
+[Sek  70] Negotiate
+[Sek  70] suit.
+[Sek  70] Cost
+[Sek  70] ics
+[Sek  70] Island.
+[Sek  70] ignoring
+[Sek  70] more
+[Sek  70] While
+[Sek  70] Crew,
+[Sek  70] recruit
+[Sek  70] Comrade
+[Sek  70] You
+[Sek  70] Dog
+[Sek  70] moves
+[Sek  70] Sea
+[Sek  70] Current,
+[Sek  70] effect
+[Sek  70] Strong
+[Sek  70] direction
+[Sek  70] its
+[Sek  70] ignore
+[Sek  70] into
+[Sek  70] rerent
+[Sek  71] N
+[Sek  71] 9o
+[Sek  71] uP
+[Sek  71] al an
+[Sek  71] 6f
+[Sek  71] caag
+[Sek  71] Teddenoaa
+[Sek  71] Ganiles
+[Sek  71] eees
+[Sek  71] Ra
+[Sek  71] S0n
+[Sek  71] 5ai
+[Sek  71] Pun
+[Sek  71] ne
+[Sek  71] ailwvind
+[Sek  71] cost
+[Sek  72] GP
+[Sek  72] at an
+[Sek  72] oaau
+[Sek  72] Teofenoa
+[Sek  72] anles
+[Sek  72] T
+[Sek  72] S0a
+[Sek  72] Macrehoea
+[Sek  72] Kotrun
+[Sek  72] 7078ene
+[Sek  72] 86us
+[Sek  72] Fr
+[Sek  72] slots
+[Sek  72] durection
+[Sek  72] diflerent
+[Sek  72] Island ,
+[Sek  72] Ropes
+[Sek  72] Deliver
+[Sek  73] 4
+[Sek  73] is a
+[Sek  73] if
+[Sek  73] Tedfenooa
+[Sek  73] anes
+[Sek  73] aeea
+[Sek  73] 401i
+[Sek  73] ansanen
+[Sek  73] 7u
+[Sek  73] Oae
+[Sek  73] Me
+[Sek  73] ailwind
+[Sek  73] egotiate
+[Sek  73] this .
+[Sek  74] 36
+[Sek  74] Joao
+[Sek  74] Tealenooa
+[Sek  74] es
+[Sek  74] Megrehoea
+[Sek  74] Ma
+[Sek  74] Aen
+[Sek  74] recruit .
+[Sek  75] t0 2
+[Sek  75] 9
+[Sek  75] pun
+[Sek  75] Moa
+[Sek  75] Tedleooa
+[Sek  75] anele
+[Sek  75] R
+[Sek  75] Sedl
+[Sek  75] 40ni
+[Sek  75] avsaaen
+[Sek  77] 0 0
+[Sek  86] 71
+[Sek  86] 1us7nad,
+[Sek  86] APESTR
+[Sek  87] 1u7s7nad
+[Sek  87] APESTRY .
+[Sek  88] V
+[Sek  88] APESTRY
+[Sek  89] 91 0
+[Sek  89] 7ustnada
+[Sek  91] 1n W
+[Sek  91] 67
+[Sek  91] 7u7s7nat,
+[Sek  91] 1u031
+[Sek  92] ustnad,
+[Sek  92] APESIRY
+[Sek  93] Jn N
+[Sek  93] Uun
+[Sek  94] JL N
+[Sek  94] PREORDER NOWE
+[Sek  94] LEARN MORE
+[Sek  94] consume Vast Quantities
+[Sek  94] OUR GAMES
+[Sek  94] ALL GAES
+[Sek  94] USD
+[Sek  94] Check cbe Iink in cbe descripzion
+[Sek  95] Retailer Portal
+[Sek  95] Account
+[Sek  95] LEDEQ
+[Sek  95] Shop
+[Sek  95] FAQs
+[Sek  95] Blog
+[Sek  95] Resources
+[Sek  95] About
+[Sek  95] Contact
+[Sek  95] LEARNMORE
+[Sek  95] omsuMe Vast Quantities
+[Sek  95] ALL GAMES
+[Sek  95] Check che link in dhe descripcion
+[Sek  96] 22
+[Sek  96] onsume Vast Quantities
+[Sek  96] Check ce link in ce descripcion
+[Sek  97] LHDGR
+[Sek  97] Cbeck che link in dhe descripcion
+[Sek  98] EHDGR
+[Sek  98] ARCS
+[Sek  98] LATE PLEDGES OPEN
+[Sek  98] NOW
+[Sek 101] ALL GAMIES
+[Sek 101] ROOT
+[Sek 101] A Gunc oFWoodland
+[Sek 101] ighe unud Righr
+[Sek 101] Qatt
+[Sek 101] VAST
+[Sek 101] CHRONICLES Of Emnre
+[Sek 101] EXILE
+[Sek 101] Cbeck che link in the descripcion
+[Sek 101] MysTERIS
+[Sek 102] ALLCALES
+[Sek 102] RooT
+[Sek 102] A Guc oFWoodlund ighe .und Righe
+[Sek 102] Qatl
+[Sek 102] ChRONICLES OF EMMre
+[Sek 102] EXiLE
+[Sek 102] OATH
+[Sek 102] FORT
+[Sek 102] A Game of Woodland Might and Right
+[Sek 102] Chronicles of Empire Exile
+[Sek 102] Building Forts and Following Friends
+[Sek 102] The Mysterious Manor
+[Sek 102] Check ce link in che descripcion
+[Sek 102] Mjauiogs i
+[Sek 103] Reriner Portai
+[Sek 103] NcoUi
+[Sek 103] ShoP
+[Sek 103] Filter BY
+[Sek 103] 5orT BY
+[Sek 103] AII
+[Sek 103] Accessories
+[Sek 103] Expansions
+[Sek 103] Fort
+[Sek 103] Merch
+[Sek 103] Cath
+[Sek 103] Root
+[Sek 103] Vast
+[Sek 103] Featured
+[Sek 103] PREORDER
+[Sek 103] Ro
+[Sek 103] AHoy
+[Sek 103] RuOT
+[Sek 103] PREORDER Root The Marauder
+[Sek 103] PREORDER Root Marauder
+[Sek 103] PREORDER Root Underworld
+[Sek 103] PREORDER Ahoy
+[Sek 103] Expansion
+[Sek 103] Hirelings Pack Hireling Box
+[Sek 103] Hirelings Pack
+[Sek 103] 520,00 USD
+[Sek 103] 950 00 USD
+[Sek 103] 30 Oo USD
+[Sek 103] 520 00 USD
+[Sek 103] Check che link in ce descripcion
+[Sek 103] Ahoy
+[Sek 104] A
+[Sek 104] FilTer B Y
+[Sek 104] Sort BY
+[Sek 104] Rcot
+[Sek 104] SLO.00 USD
+[Sek 104] 550.00 USD
+[Sek 104] 530.OC USD
+[Sek 104] 520 O0USD
+[Sek 104] WEBSTORE EXCLUSIVE
+[Sek 104] Roo
+[Sek 104] Check che link in de descripcion
+[Sek 105] Filter B Y
+[Sek 105] sort BY
+[Sek 105] roOT
+[Sek 105] SL0,00 USD
+[Sek 105] 530.00 USD
+[Sek 105] 520 O0 USD
+[Sek 105] PREOrdeR
+[Sek 106] 540.00 USD
+[Sek 106] 550,00 USD
+[Sek 106] 52000 USD
+[Sek 106] RoOT
+[Sek 106] PREORDER Root Riverfolk
+[Sek 106] PREORDER Root The Clockwork
+[Sek 106] PREORDER Root Cat Marquise
+[Sek 106] PREORDER Root Landmarks Pack
+[Sek 106] Expansion 2
+[Sek 106] Plush Collectible
+[Sek 106] Check ce link in de descripcion
+[Sek 106] tllsle 4
+[Sek 107] Anu
+[Sek 107] rooT
+[Sek 107] 510,00 USD
+[Sek 107] PREordeR
+[Sek 107] PREOrDER
+[Sek 107] PREORDER Root
+[Sek 107] Clockwork
+[Sek 107] S10,00 USD
+[Sek 107] S40,00 USD
+[Sek 107] 520.00 USD
+[Sek 107] SALE
+[Sek 107] Check che link in che descripcion
+[Sek 107] ALAArharee inl
+[Sek 108] 30.00 USD
+[Sek 108] 520.O0 USD
+[Sek 108] ROot
+[Sek 108] 10,00 USD
+[Sek 108] SuO.OoUSD
+[Sek 108] ALMAarls
+[Sek 108] Oati
+[Sek 109] Mu
+[Sek 109] 510.00 USD
+[Sek 109] 4o.00 USD
+[Sek 109] RoOTI
+[Sek 109] NuoT
+[Sek 109] Root A Game of Woodland Might and
+[Sek 109] Root The Underworld Expansion
+[Sek 109] Right
+[Sek 109] Bundle
+[Sek 109] Oath Chronicles of Empire Exile
+[Sek 109] Oath Card Sleeves
+[Sek 109] 560.00 USD
+[Sek 109] S9C Ou USB 570.00 USD
+[Sek 109] 5120 O0 USD
+[Sek 109] 530.O0 USD
+[Sek 109] ill
+[Sek 109] Owtl
+[Sek 110] 520,.00 USD
+[Sek 110] s10.00 USD
+[Sek 110] IRonti
+[Sek 110] RuoT
+[Sek 110] KuO
+[Sek 110] 560,.00 USD
+[Sek 110] 590.80 tS8 570.00 USD
+[Sek 110] 5120 O0 USL
+[Sek 110] 530 OOUSL
+[Sek 110] Amlla
+[Sek 110] Outi
+[Sek 111] S40.O0 USD
+[Sek 111] Itut
+[Sek 111] 598.88 458570.00 USD
+[Sek 111] 120.00 USD
+[Sek 111] 530 00 USD
+[Sek 111] 3 Do
+[Sek 111] Cbeck ce Link in de descripcion
+[Sek 112] Ruu
+[Sek 112] 598.80 32B 570.00 USD
+[Sek 112] 5120 00 USD
+[Sek 112] 53000USD
+[Sek 112] Oat
+[Sek 112] oaegra7
+[Sek 112] Oath Deluxe Components
+[Sek 112] Oath Chronicle Journal
+[Sek 112] Fort Cats Dogs Expansion
+[Sek 112] 10.00 USD
+[Sek 112] 512 99 USD
+[Sek 112] Check ce link in te descripcion
+[Sek 112] Outl
+[Sek 112] Daa
+[Sek 112] Cha
+[Sek 113] 8o
+[Sek 113] NuuT
+[Sek 113] 560,00 USD
+[Sek 113] 596 80 U5E 570.00 USD
+[Sek 113] 330 00 USD
+[Sek 113] 50.00 USD
+[Sek 113] 51299 USD
+[Sek 113] Ca73
+[Sek 114] 598.80 458 570.00 USD
+[Sek 114] 5120.00 USD
+[Sek 114] 0ati
+[Sek 114] Doc
+[Sek 114] cs
+[Sek 114] To
+[Sek 114] 512.99USD
+[Sek 114] 0rrny
+[Sek 115] 04t
+[Sek 115] Cas
+[Sek 115] DoF
+[Sek 115] No
+[Sek 115] 512 99USD
+[Sek 115] Vast The Mysterious Manor
+[Sek 115] Vast The Haunted Hallways
+[Sek 115] Root The Riverfolk Expansion
+[Sek 115] Root The Clockwork Expansion
+[Sek 115] 525.00 USD
+[Sek 115] S20.O0USD
+[Sek 116] Gol
+[Sek 116] 530,00 USD
+[Sek 116] 330.00 USD
+[Sek 116] 312 99 USD
+[Sek 116] Nusr
+[Sek 116] 525,00 USD
+[Sek 116] 540,00 USD
+[Sek 116] Cbeck ce link in de descripcion
+[Sek 117] 310.00 USD
+[Sek 117] 925,00 USD
+[Sek 117] S10OOUSD
+[Sek 118] VAsT
+[Sek 118] SL0.O0 USD
+[Sek 118] FAQS
+[Sek 118] shop
+[Sek 118] Collsborations
+[Sek 118] sien
+[Sek 118] SoHetor
+[Sek 118] For Our
+[Sek 118] Ahoy Design Diary 3
+[Sek 118] Nau to Root?
+[Sek 118] Bunkers Badasses
+[Sek 118] Trimming the Sails
+[Sek 118] Email Address
+[Sek 118] Vast TCC
+[Sek 118] Root Digital
+[Sek 118] JULY 27, 2022
+[Sek 118] Rasourcos
+[Sek 119] ustia6a
+[Sek 119] 1U02
+[Sek 120] Uui
+[Sek 120] 1vv V
+[Sek 120] ustna6a
+[Sek 121] Justna6,
+[Sek 122] aundo
+[Sek 122] 1 M
+[Sek 122] i
+[Sek 122] ustnaga
+[Sek 122] IU 01
+[Sek 122] 1A
+[Sek 123] ardul
+[Sek 123] 1n V
+[Sek 123] IU01
+[Sek 123] 609
+[Sek 124] andan
+[Sek 124] 1v W
+[Sek 124] 7utnaga
+[Sek 124] 1U 11
+[Sek 127] Au
+[Sek 127] FTAPESTRY
+[Sek 128] I M
+[Sek 128] 7ustna6,
+[Sek 129] 1 V.
+[Sek 129] Ouo
+[Sek 130] 57
+[Sek 130] 7u0
+[Sek 131] Vu
+[Sek 131] 10 0
+[Sek 132] Gu
+[Sek 132] Ju0
+[Sek 133] 1v 0
+[Sek 133] Oua
+[Sek 133] Jusinag,
+[Sek 133] Iu0
+[Sek 134] U 0
+[Sek 134] Su
+[Sek 134] ustaga
+[Sek 134] apes
+[Sek 135] IV 0
+[Sek 135] FAPESTRY
+[Sek 136] uhaled
+[Sek 137] 7usiia6,
+[Sek 137] ahalall
+[Sek 138] ustia6,
+[Sek 138] auaall
+[Sek 139] Chapcer I
+[Sek 139] Gbe Faccions
+[Sek 140] Bluefin acuadron
+[Sek 141] Bluefin Squadron
+[Sek 147] 1v N
+[Sek 148] In 0
+[Sek 148] ustnada
+[Sek 148] 1U0i
+[Sek 148] Tapest
+[Sek 151] Sk6
+[Sek 155] 9 0
+[Sek 160] ustnag
+[Sek 161] 1ustnag
+[Sek 161] 1U0E
+[Sek 162] C7
+[Sek 163] 1v ? V
+[Sek 165] S
+[Sek 165] Lor 2
+[Sek 165] 21
+[Sek 165] In
+[Sek 165] San
+[Sek 165] epaces
+[Sek 165] battle
+[Sek 165] roll.
+[Sek 165] down
+[Sek 165] change
+[Sek 166] Fau
+[Sek 166] Fleeho
+[Sek 166] hen
+[Sek 166] Plcc
+[Sek 166] Deplol
+[Sek 166] adjace
+[Sek 166] annons
+[Sek 167] Flgsn
+[Sek 167] Plr
+[Sek 167] uc
+[Sek 167] bartle
+[Sek 168] S94
+[Sek 168] Plcr
+[Sek 168] ur
+[Sek 168] ay
+[Sek 168] Bombar
+[Sek 168] Comraa
+[Sek 168] yor
+[Sek 170] ?
+[Sek 170] Ya
+[Sek 170] 1or 2
+[Sek 170] rO
+[Sek 170] Flesn
+[Sek 170] pce
+[Sek 170] hur
+[Sek 170] Deplo
+[Sek 170] Vour
+[Sek 171] i s
+[Sek 171] Yau
+[Sek 171] 1or 1
+[Sek 171] che
+[Sek 171] Flgshu
+[Sek 171] curn
+[Sek 172] Jo
+[Sek 172] epacer
+[Sek 172] Mne
+[Sek 173] S ?
+[Sek 173] Fu
+[Sek 173] battle,
+[Sek 173] VOUr
+[Sek 174] Sen ?
+[Sek 174] Vor
+[Sek 174] O
+[Sek 174] Flgsh
+[Sek 174] Your
+[Sek 175] N s
+[Sek 175] Flgshur
+[Sek 175] Patroll
+[Sek 176] 474
+[Sek 184] 2i
+[Sek 184] 4 V
+[Sek 184] TAPEST
+[Sek 186] 1ustna6,
+[Sek 188] TApEST
+[Sek 190] Iu0E
+[Sek 191] TAPESH
+[Sek 192] punn
+[Sek 194] Uu
+[Sek 195] Jvv V
+[Sek 196] 44a4s
+[Sek 196] Lach
+[Sek 196] 7gions
+[Sek 196] nrades
+[Sek 196] is right !
+[Sek 196] Il
+[Sek 196] 4v
+[Sek 196] them
+[Sek 197] 07
+[Sek 197] Pin
+[Sek 198] P
+[Sek 198] aee
+[Sek 198] ea
+[Sek 199] lacd
+[Sek 199] 0nlal7
+[Sek 199] Celd caln
+[Sek 199] Pn
+[Sek 199] Cg
+[Sek 199] ss
+[Sek 199] Pae
+[Sek 199] aooro s
+[Sek 199] 77
+[Sek 199] edesas
+[Sek 199] enaa
+[Sek 199] ade
+[Sek 199] act
+[Sek 199] r
+[Sek 199] aa
+[Sek 199] Ke?
+[Sek 199] yn
+[Sek 199] 84
+[Sek 199] ae7
+[Sek 199] G
+[Sek 199] ane s
+[Sek 200] and all
+[Sek 200] hnad
+[Sek 200] could call
+[Sek 200] Ca3
+[Sek 200] 4rou
+[Sek 200] Ar
+[Sek 200] Oulr
+[Sek 200] with us vrou 1l
+[Sek 200] enoush ,
+[Sek 200] oh
+[Sek 200] U
+[Sek 200] snout !
+[Sek 200] 58
+[Sek 200] sed
+[Sek 200] hee
+[Sek 200] ar
+[Sek 200] oue
+[Sek 200] hey
+[Sek 200] g
+[Sek 200] Ahey
+[Sek 200] burned
+[Sek 200] nary
+[Sek 200] ut
+[Sek 200] shirs
+[Sek 200] they
+[Sek 200] on
+[Sek 200] Lhey
+[Sek 200] Inochad
+[Sek 200] Lhe
+[Sek 201] ereo
+[Sek 201] apo7
+[Sek 201] and all could
+[Sek 201] call
+[Sek 201] fimd onurt , t
+[Sek 201] Jou nces Wilhi
+[Sek 201] enough, oh
+[Sek 201] You Ll get
+[Sek 201] Inocked
+[Sek 201] in the
+[Sek 201] snout!
+[Sek 201] 30
+[Sek 201] hero
+[Sek 201] en
+[Sek 201] ane7
+[Sek 201] had
+[Sek 201] ships
+[Sek 201] But
+[Sek 201] 06
+[Sek 202] d
+[Sek 202] eer e e
+[Sek 202] arino
+[Sek 202] ari
+[Sek 202] sd
+[Sek 202] cur
+[Sek 202] ssel
+[Sek 202] 51
+[Sek 202] usouul
+[Sek 202] enough,
+[Sek 202] ol
+[Sek 202] get Inocked
+[Sek 202] Vn
+[Sek 202] oa
+[Sek 202] u2?
+[Sek 202] Cad
+[Sek 202] ary
+[Sek 202] H
+[Sek 203] imontar Dg
+[Sek 203] 6e3
+[Sek 203] Hoanc
+[Sek 203] Fir
+[Sek 203] with us you 1l
+[Sek 203] olz
+[Sek 203] get knocked in
+[Sek 203] snoul !
+[Sek 203] eses
+[Sek 203] aen
+[Sek 203] hnoy
+[Sek 203] Cevs
+[Sek 203] 7n
+[Sek 203] Bst
+[Sek 204] 077
+[Sek 204] usta6,
+[Sek 206] Calte
+[Sek 206] 0140
+[Sek 206] 046
+[Sek 207] yvu
+[Sek 207] 2C
+[Sek 207] toi
+[Sek 207] Uce
+[Sek 207] wide,
+[Sek 207] anl
+[Sek 207] Setu
+[Sek 207] Roll
+[Sek 207] Dice
+[Sek 207] Take
+[Sek 207] Piec
+[Sek 207] Flagship,
+[Sek 207] Piece
+[Sek 207] tallest
+[Sek 208] lo
+[Sek 208] yo
+[Sek 208] and s
+[Sek 208] 24 3
+[Sek 208] Driven
+[Sek 208] sea
+[Sek 208] round,
+[Sek 208] basically
+[Sek 208] Use
+[Sek 208] Setup
+[Sek 208] Kcli
+[Sek 208] 0ice
+[Sek 208] ala
+[Sek 208] 11nh
+[Sek 208] 76 664
+[Sek 209] yol
+[Sek 209] 911
+[Sek 209] widle,
+[Sek 209] Seto
+[Sek 209] 744241
+[Sek 209] 140e
+[Sek 209] 6ane
+[Sek 209] 7188ed
+[Sek 210] you g
+[Sek 210] by h
+[Sek 210] Your plan
+[Sek 210] anatrir
+[Sek 210] MoLl
+[Sek 210] long
+[Sek 210] red
+[Sek 210] wide
+[Sek 210] 144211
+[Sek 210] 1ne
+[Sek 210] Tol
+[Sek 211] 35
+[Sek 211] x
+[Sek 211] bo
+[Sek 211] be
+[Sek 211] 8e
+[Sek 211] Mela
+[Sek 211] a 1aeve
+[Sek 211] a4a
+[Sek 211] 130441.
+[Sek 211] snj
+[Sek 211] 41 4,nnae
+[Sek 211] 2229113
+[Sek 211] Sslane
+[Sek 211] 10n
+[Sek 211] Kound
+[Sek 211] Yo
+[Sek 211] ,
+[Sek 211] meshn
+[Sek 211] 74ne
+[Sek 211] slan
+[Sek 211] 4n
+[Sek 211] contoal
+[Sek 211] thenn
+[Sek 211] Carde
+[Sek 211] 00
+[Sek 211] 786,n
+[Sek 211] alena
+[Sek 211] Keep
+[Sek 211] plan
+[Sek 211] Dagshn
+[Sek 211] numbers
+[Sek 211] Draw
+[Sek 211] ship
+[Sek 211] ub
+[Sek 211] Union
+[Sek 211] each
+[Sek 211] equal
+[Sek 211] any
+[Sek 211] 21e
+[Sek 211] Coini
+[Sek 211] per
+[Sek 211] For
+[Sek 211] control
+[Sek 211] Fame
+[Sek 211] Ready
+[Sek 211] with
+[Sek 211] Start
+[Sek 211] cannot
+[Sek 211] Grom
+[Sek 211] slors .
+[Sek 211] Qur
+[Sek 212] 48
+[Sek 212] 05
+[Sek 212] xY
+[Sek 212] s laeve
+[Sek 212] 81 1 4,nae
+[Sek 212] siane
+[Sek 212] 9469
+[Sek 212] 4yo
+[Sek 212] wrahn
+[Sek 212] 74n2a
+[Sek 212] 8nn
+[Sek 212] Conual
+[Sek 212] Jalena
+[Sek 212] rekion
+[Sek 212] numnber
+[Sek 212] slors.
+[Sek 213] 101
+[Sek 213] M,11,
+[Sek 213] e Laese
+[Sek 213] denoiey
+[Sek 213] 1 4491aa
+[Sek 213] 2229111
+[Sek 213] 8eiano
+[Sek 213] 40n
+[Sek 213] Round
+[Sek 213] 4Yo
+[Sek 213] 4i
+[Sek 213] Mrahn
+[Sek 213] slang
+[Sek 213] 4i n
+[Sek 213] C0nual
+[Sek 213] thein1
+[Sek 213] 0n
+[Sek 213] Caids
+[Sek 213] 78imn
+[Sek 213] Keer
+[Sek 213] rexion
+[Sek 213] Flavshn
+[Sek 213] number
+[Sek 213] 68v
+[Sek 213] 40i8e
+[Sek 213] ahe
+[Sek 213] slors
+[Sek 214] 1vv
+[Sek 214] Vun
+[Sek 214] sndal
+[Sek 216] punne
+[Sek 216] Iu01
+[Sek 217] Oun
+[Sek 222] Enlist
+[Sek 222] Dy
+[Sek 222] as an action then discard
+[Sek 222] Play
+[Sek 222] 29
+[Sek 222] Choose any one Island with any
+[Sek 222] Comrades. Recruit any number
+[Sek 222] of its suit, ignoring cost.
+[Sek 222] larket only when done.
+[Sek 222] Sneak
+[Sek 222] Cutrure
+[Sek 222] Fny
+[Sek 222] l
+[Sek 223] rhad
+[Sek 223] Clos
+[Sek 223] Pccan cnn
+[Sek 223] whth
+[Sek 223] numbe
+[Sek 223] OTDB
+[Sek 223] Jny
+[Sek 223] when
+[Sek 223] only
+[Sek 223] Chov
+[Sek 226] Ie
+[Sek 226] drran
+[Sek 226] Cen
+[Sek 226] Hantan
+[Sek 226] 32
+[Sek 227] as an action, then discard.
+[Sek 227] o1 2
+[Sek 227] 7al
+[Sek 227] 46
+[Sek 227] 27
+[Sek 227] Choose any one
+[Sek 227] Comrades. Recruit any numcos
+[Sek 227] of Crew of its suit , ignoring cosn.
+[Sek 227] the Market only when done
+[Sek 227] Call
+[Sek 227] wit
+[Sek 227] batle
+[Sek 227] Athen
+[Sek 227] Close
+[Sek 227] Slart
+[Sek 227] turn,
+[Sek 227] outside
+[Sek 227] Ply
+[Sek 227] even
+[Sek 227] Dynamic
+[Sek 227] action
+[Sek 227] Refill
+[Sek 227] Increase
+[Sek 227] abo
+[Sek 227] not
+[Sek 227] move
+[Sek 228] Pla
+[Sek 228] then
+[Sek 228] discard
+[Sek 228] Play as an action,
+[Sek 228] CV
+[Sek 228] 39
+[Sek 228] 23
+[Sek 228] K
+[Sek 228] Ig
+[Sek 228] Choose any onE
+[Sek 228] Comrades Recruit anty
+[Sek 228] jie
+[Sek 228] YI
+[Sek 228] of its ouit ,
+[Sek 228] ipnoring coa
+[Sek 228] of Crew
+[Sek 228] when done
+[Sek 228] Refill the Market only
+[Sek 228] dbe
+[Sek 228] Entry
+[Sek 228] discari
+[Sek 228] action,
+[Sek 228] as
+[Sek 228] Fla
+[Sek 228] actio
+[Sek 228] Kot
+[Sek 231] Secrel
+[Sek 231] Weapon
+[Sek 231] a1he start of a
+[Sek 231] baule with
+[Sek 231] outside yout turn, then dis r
+[Sek 231] elen
+[Sek 231] Instead of rolling
+[Sek 231] battle die, you
+[Sek 231] 2 baule dice and add them up
+[Sek 231] rolls
+[Sek 231] battle die.
+[Sek 231] Your enemy still
+[Sek 231] win, deal an extra damage .
+[Sek 231] If you
+[Sek 231] you,
+[Sek 231] pley
+[Sek 232] Secret Weapon
+[Sek 232] the start of a battle with youd
+[Sek 232] Play at
+[Sek 232] discard .
+[Sek 232] even outside your turn,
+[Sek 232] bautle die,
+[Sek 232] 2 battle dice and add them up.
+[Sek 232] Your enemy
+[Sek 232] win, deal an extra damage.
+[Sek 232] It you
+[Sek 232] still
+[Sek 233] the start of a battle with yc
+[Sek 233] turn, then disca
+[Sek 233] even outside your
+[Sek 233] ba
+[Sek 233] roll 2 battle dice
+[Sek 233] If you win, deal an
+[Sek 234] Evacuation
+[Sek 234] as an action, then
+[Sek 234] discard.
+[Sek 234] Remove all Comrades from
+[Sek 234] Island , and place them on any
+[Sek 234] other Island or Islands. You may
+[Sek 234] distribute them any way you want
+[Sek 235] Comrades from
+[Sek 235] Island, and place them on any
+[Sek 235] distribute them
+[Sek 235] way you want.
+[Sek 236] Culler
+[Sek 236] 68 061 a880 ,
+[Sek 236] 06e 090 ,
+[Sek 236] 801 10
+[Sek 236] us
+[Sek 236] 681
+[Sek 236] Tlnd
+[Sek 236] Ignornp Wnvckape
+[Sek 236] 1t s hapile bunt fast . Il thue Uie Aloot 4
+[Sek 236] damared discats thue cand
+[Sek 236] io
+[Sek 236] Qbiuuan
+[Sek 236] Alull eloat cannnt be amapeat
+[Sek 236] i2
+[Sek 236] Iccannol load Cannone
+[Sek 236] Juul Mu On
+[Sek 236] annana c afh1ont bne uecal in alan hanle
+[Sek 236] uh the Cutter 0i Mpnn uui
+[Sek 236] 8el M1
+[Sek 236] Dchold Jts
+[Sek 236] clauLach Comtade on
+[Sek 236] tln Dslanel an Ms Fepnon Duns odldle 02
+[Sek 236] 106
+[Sek 236] plae
+[Sek 236] alls
+[Sek 236] Mgho
+[Sek 236] Cind
+[Sek 237] Cutter
+[Sek 237] Play as an
+[Sek 237] from an
+[Sek 237] Cutter there.
+[Sek 237] Sail 1 to 3
+[Sek 237] Wreckage
+[Sek 237] die slot is
+[Sek 237] but fast. If
+[Sek 237] Ic s
+[Sek 237] Cutter A
+[Sek 237] slot
+[Sek 237] dicon
+[Sek 237] Ic
+[Sek 237] Joral.
+[Sek 237] Cannons Cannter or improve
+[Sek 237] clan .
+[Sek 237] its mighty
+[Sek 237] n 1
+[Sek 237] spaces
+[Sek 237] Ignoring
+[Sek 237] fragile
+[Sek 237] card
+[Sek 237] damaged!
+[Sek 237] damaged ,
+[Sek 237] cannol
+[Sek 237] full
+[Sek 237] bautle
+[Sek 237] load
+[Sek 237] Cannol
+[Sek 237] Sln
+[Sek 237] used
+[Sek 237] rll
+[Sek 237] Fach
+[Sek 237] adds
+[Sek 237] Bchold
+[Sek 237] Tekion
+[Sek 238] there.
+[Sek 238] the Cutter
+[Sek 238] this card
+[Sek 238] Cutter A full slot
+[Sek 238] Cannons Your
+[Sek 238] t0
+[Sek 238] oral
+[Sek 238] On
+[Sek 238] damaged,
+[Sek 238] baule
+[Sek 238] Conrade
+[Sek 238] Tgion
+[Sek 239] this s
+[Sek 239] clan.
+[Sek 239] inIl3
+[Sek 239] Slan
+[Sek 239] ontrol
+[Sek 239] Tion
+[Sek 240] 7ustnad,
+[Sek 241] TApES
+[Sek 242] F W
+[Sek 242] usna6,
+[Sek 242] TApESTA
+[Sek 243] 1 N
+[Sek 244] Ou
+[Sek 244] 02
+[Sek 246] Justnag
+[Sek 247] 0u7
+[Sek 249] punu
+[Sek 250] 067
+[Sek 250] Tapesiry
+[Sek 251] punun
+[Sek 253] Ae
+[Sek 255] 1vV
+[Sek 261] Gs
+[Sek 261] Frr
+[Sek 261] Toiland
+[Sek 261] Linen
+[Sek 261] PLEDGE
+[Sek 262] 12
+[Sek 262] le
+[Sek 262] Aaa
+[Sek 262] Lree
+[Sek 262] Taland
+[Sek 262] Fe
+[Sek 263] is at
+[Sek 263] Aa
+[Sek 263] Een
+[Sek 263] nove
+[Sek 264] 17
+[Sek 269] !
+[Sek 269] E
+[Sek 273] I
+[Sek 276] 07stna6,
+[Sek 277] Win
+[Sek 277] IUstna6,
+[Sek 277] 1u 0
+[Sek 278] P n
+[Sek 278] 1us7na6,
+[Sek 279] Au7
+[Sek 279] Wln
+[Sek 279] 1usta6,
+[Sek 280] W4n
+[Sek 280] 1us7a6,
+[Sek 280] PApES
+[Sek 281] puu
+[Sek 282] 1ustna6 ,
+[Sek 283] bunue
+[Sek 284] W2n
+[Sek 285] 181
+[Sek 285] 10stna6,
+[Sek 285] oesn
+[Sek 286] Vyn
+[Sek 286] EPESTRY 4
+[Sek 287] 10s7na6,
+[Sek 287] PESTRY
+[Sek 289] Uu7
+[Sek 289] 7us7na6,
+[Sek 289] TESTRY
+[Sek 290] 7sina6 ,
+[Sek 290] 7si
+[Sek 291] Jusina6,
+[Sek 291] ESTRY
+[Sek 292] AG
+[Sek 292] 1usina6,
+[Sek 293] ns
+[Sek 293] 7usina6 ,
+[Sek 294] 76
+[Sek 294] Usina6,
+[Sek 295] sina6,
+[Sek 295] STRY
+[Sek 299] v V
+[Sek 300] Uui7
+[Sek 302] sdalts
+[Sek 303] 1W
+[Sek 303] TAPESTRY A
+[Sek 305] At
+[Sek 305] All
+[Sek 305] tO
+[Sek 305] Ur
+[Sek 305] of
+[Sek 305] Smug8
+[Sek 305] Cre
+[Sek 305] Actions
+[Sek 305] RECRUIT
+[Sek 305] for
+[Sek 305] aid
+[Sek 305] Islands,
+[Sek 305] See
+[Sek 305] now.
+[Sek 305] choose
+[Sek 305] SMUGGLE
+[Sek 305] Cargo.
+[Sek 305] PLEDC
+[Sek 305] reward.
+[Sek 305] DELIVER
+[Sek 305] Victory
+[Sek 305] gain
+[Sek 305] Battle
+[Sek 305] Recruit
+[Sek 305] Fignoring
+[Sek 305] suIC
+[Sek 305] corner.
+[Sek 305] Damage
+[Sek 305] Move 2
+[Sek 305] Spend
+[Sek 305] Gold
+[Sek 305] gold
+[Sek 305] value.
+[Sek 305] Tile
+[Sek 305] Free
+[Sek 305] Add
+[Sek 305] Map
+[Sek 305] Hgnoring
+[Sek 305] 9u
+[Sek 305] 02i
+[Sek 305] Recrun
+[Sek 305] Repanr
+[Sek 305] 1 Crev
+[Sek 305] Jven
+[Sek 305] Frew
+[Sek 305] And
+[Sek 305] anlu
+[Sek 305] amage
+[Sek 305] sors
+[Sek 305] aie
+[Sek 306] Jie
+[Sek 306] Smio
+[Sek 306] aoroer
+[Sek 306] Jslana
+[Sek 306] rarorn2
+[Sek 306] Ce
+[Sek 306] ehanuae
+[Sek 306] oronse
+[Sek 306] Gaa
+[Sek 306] Ce 2er
+[Sek 306] Cara
+[Sek 306] enon
+[Sek 306] Victon
+[Sek 306] caeen
+[Sek 306] ana
+[Sek 306] Havship
+[Sek 306] With
+[Sek 306] ne .
+[Sek 306] Key
+[Sek 306] Dcal
+[Sek 306] Coi
+[Sek 306] direcdly
+[Sek 306] roi
+[Sek 306] xold
+[Sek 306] value
+[Sek 306] Frec
+[Sek 306] ahis
+[Sek 306] suil
+[Sek 306] Irepair
+[Sek 306] suit
+[Sek 306] igaorieg
+[Sek 307] 600
+[Sek 307] 0p
+[Sek 307] AIl
+[Sek 307] aere
+[Sek 307] Jslama
+[Sek 307] Cuu2
+[Sek 307] Sa
+[Sek 307] Jshanne
+[Sek 307] ao
+[Sek 307] onoose
+[Sek 307] Seae
+[Sek 307] Weno
+[Sek 307] C ar
+[Sek 307] Tailwina
+[Sek 307] damnage
+[Sek 307] Hagshiv
+[Sek 307] oah
+[Sek 307] damaee
+[Sek 307] Y0u
+[Sek 307] Corne ,
+[Sek 307] direculy
+[Sek 307] Mova
+[Sek 307] Hagship
+[Sek 307] Grow
+[Sek 307] Kold
+[Sek 307] valuc
+[Sek 307] Ille
+[Sek 307] ignaoriesg
+[Sek 308] 660
+[Sek 308] rnrs
+[Sek 308] slana
+[Sek 308] Cr7
+[Sek 308] aous
+[Sek 308] e7
+[Sek 308] ooone
+[Sek 308] ananaar
+[Sek 308] 72e
+[Sek 308] Carea
+[Sek 308] Wea
+[Sek 308] Cecen
+[Sek 308] nd
+[Sek 308] Tailw
+[Sek 308] Havshir
+[Sek 308] 6a6
+[Sek 308] Coine
+[Sek 308] Fagship
+[Sek 308] row
+[Sek 308] Tlle
+[Sek 308] Frce
+[Sek 308] dte
+[Sek 309] 360
+[Sek 309] 6a
+[Sek 309] rnes
+[Sek 309] Sn
+[Sek 309] sharoa
+[Sek 309] Ca
+[Sek 309] acann
+[Sek 309] eaa
+[Sek 309] Ond
+[Sek 309] Batdle
+[Sek 309] Havshin
+[Sek 309] Y08
+[Sek 309] Coenee
+[Sek 309] Des
+[Sek 309] Hlagship
+[Sek 309] Spel
+[Sek 309] Ada
+[Sek 309] Tailwn.
+[Sek 309] caras
+[Sek 310] Ge
+[Sek 310] 88
+[Sek 310] 0l
+[Sek 310] B
+[Sek 310] oones
+[Sek 310] shanvoa
+[Sek 310] haoanar
+[Sek 310] Can
+[Sek 310] damar
+[Sek 310] Oa
+[Sek 310] W616
+[Sek 310] damaoe
+[Sek 310] Cornee
+[Sek 310] ron
+[Sek 310] uia
+[Sek 310] Ile
+[Sek 310] Lre
+[Sek 310] Recrunt
+[Sek 310] Rnonng
+[Sek 310] Su1
+[Sek 310] Cusl
+[Sek 310] CoS
+[Sek 311] 38
+[Sek 311] Vo
+[Sek 311] Smg
+[Sek 311] rs
+[Sek 311] elana
+[Sek 311] Ceed
+[Sek 311] shaa
+[Sek 311] ahasanae Coen
+[Sek 311] aao
+[Sek 311] aoa
+[Sek 311] te
+[Sek 311] hnd
+[Sek 311] damane
+[Sek 311] Flagshin
+[Sek 311] eba
+[Sek 311] damace
+[Sek 311] Yavaa7
+[Sek 311] Coi 96e7
+[Sek 311] Mov
+[Sek 311] dhe
+[Sek 311] direcaly
+[Sek 311] dh6s
+[Sek 311] Hlagshin
+[Sek 311] Kola
+[Sek 311] nle
+[Sek 311] Lce
+[Sek 311] Tatlwand
+[Sek 311] Kevards
+[Sek 311] hds
+[Sek 311] buudle
+[Sek 311] Agnoring
+[Sek 311] delnen
+[Sek 311] Cosl
+[Sek 311] battles
+[Sek 312] rns
+[Sek 312] Jelama
+[Sek 312] aguaes
+[Sek 312] onee
+[Sek 312] ahanasans
+[Sek 312] oaoa
+[Sek 312] Fagshin
+[Sek 312] o6ah
+[Sek 312] C0i9ae7
+[Sek 312] Hewards
+[Sek 312] a6s
+[Sek 312] hude
+[Sek 312] AlI
+[Sek 313] 303
+[Sek 313] 0F
+[Sek 313] AJl
+[Sek 313] Smvo
+[Sek 313] ere
+[Sek 313] Jelana
+[Sek 313] ouauun
+[Sek 313] Gann
+[Sek 313] Oooea
+[Sek 313] Cnas
+[Sek 313] aan
+[Sek 313] Oavshiv
+[Sek 313] C7oa6
+[Sek 313] damnaee
+[Sek 313] youa
+[Sek 313] Coiive ,
+[Sek 313] Ohoe
+[Sek 313] ahrecaly
+[Sek 313] opend
+[Sek 313] h6s
+[Sek 313] Hagshin
+[Sek 313] vold
+[Sek 313] ce
+[Sek 313] Tatlwind
+[Sek 313] Kewards
+[Sek 313] Hgnonng
+[Sek 313] delner
+[Sek 313] Recru
+[Sek 313] Cren
+[Sek 313] Trepair
+[Sek 313] suIl
+[Sek 313] COSt
+[Sek 313] igsaoriesg
+[Sek 314] 0e
+[Sek 314] Smo
+[Sek 314] Gnnoa
+[Sek 314] Ooaea
+[Sek 314] Cnes
+[Sek 314] Oao
+[Sek 314] C76a6
+[Sek 314] yoaa
+[Sek 314] spaee
+[Sek 314] duncely
+[Sek 314] Moe
+[Sek 314] Hlaeshin
+[Sek 314] Uron
+[Sek 314] Ivola
+[Sek 314] Tailwand
+[Sek 314] ate
+[Sek 314] hute
+[Sek 314] ehvery
+[Sek 314] repair
+[Sek 315] 68
+[Sek 315] olana
+[Sek 315] agu
+[Sek 315] ona
+[Sek 315] lae
+[Sek 315] Ooao
+[Sek 315] eoe
+[Sek 315] Cn
+[Sek 315] aaqe
+[Sek 315] Tagshio
+[Sek 315] 76a6
+[Sek 315] Deall
+[Sek 315] yavaa7
+[Sek 315] Coi 9807 ,
+[Sek 315] Ahhoe
+[Sek 315] dhveedy
+[Sek 315] Uh6s
+[Sek 315] Froo
+[Sek 315] Iold
+[Sek 315] value,
+[Sek 315] Talwind
+[Sek 315] has
+[Sek 315] bule
+[Sek 315] Suil
+[Sek 315] Crex
+[Sek 316] 82
+[Sek 316] anu
+[Sek 316] ahee
+[Sek 316] uae
+[Sek 316] Gn
+[Sek 316] Vicon
+[Sek 316] Cs
+[Sek 316] Taalwina
+[Sek 316] Oavshin
+[Sek 316] C76a 0
+[Sek 316] yanaa7
+[Sek 316] diveculy
+[Sek 316] Safl
+[Sek 316] 4h6s
+[Sek 316] Haeshin
+[Sek 316] rooo
+[Sek 316] ola
+[Sek 316] nce
+[Sek 316] batule
+[Sek 316] gnoring
+[Sek 316] un
+[Sek 316] dehery
+[Sek 316] COst
+[Sek 317] 1v
+[Sek 318] Buccaneer
+[Sek 318] win any
+[Sek 318] to the
+[Sek 318] 2 Crew of
+[Sek 318] box to
+[Sek 318] to the box.
+[Sek 318] that
+[Sek 318] Gems
+[Sek 318] theirs
+[Sek 318] return
+[Sek 321] Yu
+[Sek 326] 62
+[Sek 328] 6o
+[Sek 344] usinad,
+[Sek 345] ushnag,
+[Sek 345] Tapesta
+[Sek 346] Inv N
+[Sek 347] Ju
+[Sek 351] Chapcer II
+[Sek 351] Combac Conflicc
+[Sek 351] Lo
+[Sek 351] o5
+[Sek 351] 1n
+[Sek 351] 19
+[Sek 351] Jeye
+[Sek 351] Yenar
+[Sek 351] dan
+[Sek 351] YouE
+[Sek 351] OW
+[Sek 351] nons
+[Sek 354] IU0E
+[Sek 356] arhd
+[Sek 357] pnn
+[Sek 357] V7
+[Sek 358] Frship
+[Sek 358] puce
+[Sek 358] Zspaces
+[Sek 358] Dep
+[Sek 359] ch
+[Sek 359] 7,
+[Sek 359] Ouathp
+[Sek 359] cure
+[Sek 359] cuce
+[Sek 359] direc
+[Sek 359] Bomba
+[Sek 359] region,
+[Sek 359] bautle,
+[Sek 359] adjac
+[Sek 359] Jvu
+[Sek 359] Y0
+[Sek 359] 118
+[Sek 359] 7ni
+[Sek 359] co
+[Sek 359] thus
+[Sek 359] ufo
+[Sek 360] Ve
+[Sek 360] 91
+[Sek 360] Foll
+[Sek 360] 86
+[Sek 360] 1s
+[Sek 360] fur hir
+[Sek 360] au
+[Sek 360] m
+[Sek 360] rolL
+[Sek 360] Flagshipe
+[Sek 360] Inspire
+[Sek 360] udd
+[Sek 360] dudereng
+[Sek 360] Islanje
+[Sek 360] ouf
+[Sek 360] Fanhp
+[Sek 360] Islana ,
+[Sek 360] Keady
+[Sek 361] ip
+[Sek 361] 0r
+[Sek 361] i,
+[Sek 361] to 4
+[Sek 361] If,
+[Sek 361] Jn
+[Sek 361] While your Flagship is at an
+[Sek 361] In baule, you may turn
+[Sek 361] Ccu
+[Sek 361] ignoring its cost and
+[Sek 361] hie die to add
+[Sek 361] recruil
+[Sek 361] Flagship?
+[Sek 361] different
+[Sek 361] Islands.
+[Sek 361] Jland,
+[Sek 361] Kain
+[Sek 361] omrades
+[Sek 361] Nego
+[Sek 362] die to
+[Sek 362] IC
