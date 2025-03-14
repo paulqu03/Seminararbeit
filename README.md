@@ -14,4 +14,5 @@ Ich empfehle mit 2 Venv zu arbeiten, wobei einss nur für easyOCR genutzt wird.
 Das aufsetzen der Enviromnents kann sich je nach PC unterscheiden, je nachdem ob man eine CUDA-fähige Grafikkarte hatoder nicht.
 Außerdem empfehle ich das 4. Programm in mehreren Schritten zu bearbeiten, da es ssehr rechenaufwändig ist.
 
+Ich habe für beide Enviroments die Requirements bereitgestellt.
 
